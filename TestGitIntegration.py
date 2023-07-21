@@ -1,0 +1,1 @@
+print('This is a small spcript to test git integration')
